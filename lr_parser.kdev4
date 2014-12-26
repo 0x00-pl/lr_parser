@@ -1,0 +1,4 @@
+[Project]
+Name=lr_parser
+Manager=KDevCMakeManager
+VersionControl=kdevgit
